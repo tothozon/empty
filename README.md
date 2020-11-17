@@ -1,2 +1,2 @@
-# empty
-Just an empty repo.
+# Tóth ózon
+tothozon@gmail.com
